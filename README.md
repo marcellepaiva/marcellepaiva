@@ -1,4 +1,4 @@
-## Olá! Eu sou a Marcelle 
+## Olá! Eu sou a Marcelle 👋
  <div>
   <a href="https://github.com/marcellepaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellepaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
