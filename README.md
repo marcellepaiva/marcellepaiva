@@ -1,4 +1,10 @@
 ## Olá! Eu sou a Marcelle 🖖
+ 
+
+🏳️‍🌈 <br>
+• 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas <br>
+•  🖥️ Apaixonada por Front-End
+
  <div>
   <a href="https://github.com/marcellepaiva">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcellepaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
