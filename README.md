@@ -1,13 +1,13 @@
 ## Olá! Eu sou a Marcelle 🖖
  
 🏳️‍🌈 <br>
-• 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas <br>
-• 🖥️ Apaixonada por Front-End
+• 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas. <br>
+• 🖥️ Apaixonada por Front-End.
 
- <div>
+ <div align="center">
   <a href="https://github.com/marcellepaiva">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcellepaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcellepaiva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellepaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellepaiva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
  
