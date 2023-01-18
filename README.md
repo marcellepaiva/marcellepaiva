@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/marcellepaiva">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcellepaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcellepaiva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcellepaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcellepaiva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
  
