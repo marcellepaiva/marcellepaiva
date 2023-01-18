@@ -2,7 +2,7 @@
  
 🏳️‍🌈 <br>
 • 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas <br>
-•  🖥️ Apaixonada por Front-End
+• 🖥️ Apaixonada por Front-End
 
  <div>
   <a href="https://github.com/marcellepaiva">
@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcellepaiva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+ 
+ ##
  
  ### Front-End
  
