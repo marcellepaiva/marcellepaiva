@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Marcelle 🖖
  
-🏳️‍🌈 <br>
 • 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas. <br>
 • 🖥️ Apaixonada por Front-End.
 
