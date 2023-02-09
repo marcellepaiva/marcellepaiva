@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Marcelle 🖖
+Atualmente desenvolvo projetos em Front-End, meu objetivo é me tornar uma desenvolvedora Full Stack.
  
 • 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas. <br>
 • 🖥️ Apaixonada por Front-End.
