@@ -3,6 +3,9 @@
 • 👨‍🎓 Formada em Análise e Desenvolvimento de Sistemas. <br>
 • 🖥️ Apaixonada por tecnologia.
 
+<div align="center">
+<img src="avatar.jpg" alt="meu-avatar" width=350px;>
+</div>
  <div align="center">
   <a href="https://github.com/marcellepaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellepaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
